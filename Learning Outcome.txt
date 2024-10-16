@@ -1,0 +1,11 @@
+Understanding basics of nodejs and npm or yarn
+
+///////////////////////////////////////////////
+
+-Download and Install node
+
+view npm version - npm -v 
+view node version - node -v 
+create a package.json file - npm init 
+
+installing React with Vit - npm create vite@latest moz-todo-react -- --template react
